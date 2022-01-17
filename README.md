@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif" width="200px" alt="Working on it"/>
 
 <!--
+### Hi there 👋
+
 **LeoSouzaNunes/LeoSouzaNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
