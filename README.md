@@ -1,19 +1,21 @@
-<div style="display:flex;justify-content:center;width:100%">
-<img src="https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif" width="150px" alt="Working on it"/>
-<div/>
-<!--
-### Hi there 👋
+<h3>Hello,</h3>
 
-**LeoSouzaNunes/LeoSouzaNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm Leonardo de Souza Nunes from Brazil but you can call me Leo.
+<br/>  
+A chess enthusiast by nature that love learn new stuff, nowdays I'm on my way to become a web developer and looking to understand the wide world of web development so you are welcome to give me some tips about how to be a better learner.
+<br/>
+I have some experience with the following technologies: HTML, CSS, JavaScript, Git, React, Node.js, Express, REST, SQL, PostgreSQL, Redis, MongoDB, TypeScript, OOP, Docker and AWS.
+<br/>
+<br/>
+You can find me on
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://www.linkedin.com/in/leonardodesnunes" target="_blank">
+         Linkedin
+   </a>
+  and
+  <a href="contato.leonunez@gmail.com" target="blank_">
+         Gmail
+   </a>
+ .
+</p>
